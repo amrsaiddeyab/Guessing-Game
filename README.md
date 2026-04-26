@@ -21,3 +21,6 @@ This project was created to strengthen my Python programming skills and improve 
 1. Open terminal
 2. Go to project folder: cd guessing game
 3. Run the program : python main.py
+
+## Screenshot
+![Game Screenshot](screenshot.png)
