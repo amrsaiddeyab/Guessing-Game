@@ -1,4 +1,4 @@
-#### Guessing Game in Python
+# Guessing Game in Python
 
 This project is a simple interactive guessing game built with Python.
 
